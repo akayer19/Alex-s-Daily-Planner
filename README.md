@@ -8,4 +8,4 @@ Here is a link to my deployed application! https://akayer19.github.io/Work-Day-S
 
 Screenshots:
 
-![Screenshot](Scheduler.png)
+![Screenshot](./Assets/Screenshots/Scheduler.png)
