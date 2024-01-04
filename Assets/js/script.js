@@ -1,4 +1,3 @@
-
 $(function () {
   var currentDate = dayjs().format("dddd, MMMM D, YYYY"); // Display current date in the header
   $("#currentDay").text(currentDate); // Set the text of the current day to the current date
